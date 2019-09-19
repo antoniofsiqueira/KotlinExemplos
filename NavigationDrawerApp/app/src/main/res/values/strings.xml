@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NavigationDrawerApp</string>
+    <string name="action_settings">Configruações</string>
+    <string name="action_search">Busca</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Fechar</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_amigos">Amigos</string>
+    <string name="nav_item_notificacoes">Mensagens</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_amigos</item>
+        <item>@string/nav_item_notificacoes</item>
+    </string-array>
+
+    <string name="title_mensagens">Mensagens</string>
+    <string name="title_amigos">Amigos</string>
+    <string name="title_home">Home</string>
+</resources>

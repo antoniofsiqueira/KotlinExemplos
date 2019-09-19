@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListViewApp</string>
+    <string-array name="numero_elementos">
+        <item>Primeiro Item</item>
+        <item>Segundo Item</item>
+        <item>Terceiro Item</item>
+        <item>Quarto Item</item>
+        <item>Quinto Item</item>
+        <item>Sexto Item</item>
+        <item>Sétimo Item</item>
+        <item>Oitavo Item</item>
+        <item>Nono Item</item>
+        <item>Decimo Item</item>
+    </string-array>
+</resources>

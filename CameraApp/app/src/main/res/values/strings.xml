@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraAppKotlin</string>
+    <string name="permission_denied">Permissão Negada</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_19_WebService</string>
+    <string name="telainicial_titulo">Lista de Contatos</string>
+    <string name="tag_contatos">contatos</string>
+</resources>

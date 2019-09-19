@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"></string>
+    <!-- Nome -->
+    <string name="txt_user">User</string>
+    <!-- Senha -->
+    <string name="txt_password">Password</string>
+    <!-- Botoes -->
+    <string name="rotulo_btn_login">Login</string>
+    <!--Mensagens de erro -->
+    <string name="alerta_erro_usuario_obrigatorio">Erro: Usuário é obrigatório</string>
+    <string name="alerta_erro_senha_obrigatoria">Erro: Senha é obrigatória</string>
+    <string name="alerta_erro_credencial_valido">Erro: User precisar ser um CPF ou E-mail válido!!!</string>
+    <string name="alerta_credenciais_validas">Credenciais válidas!!!</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="234dp"
+            android:background="#3B49EE">
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/logout_2"
+                android:layout_gravity="right"
+                android:layout_weight="0.1"/>
+        <TextView
+            android:id="@+id/txt_user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="HelveticaNeue"
+            android:paddingTop="40dp"
+            android:text="José da Silva Teste"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/txt_conta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="HelveticaNeue"
+            android:paddingTop="80dp"
+            android:text="Conta"
+            android:textSize="12sp"
+            android:textColor="#FFFFFF" />
+
+            <TextView
+                android:id="@+id/txt_num_conta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="HelveticaNeue"
+                android:paddingTop="100dp"
+                android:text="250/01.000110-32"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp" />
+
+            <TextView
+            android:id="@+id/txt_saldo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="HelveticaNeue"
+            android:paddingTop="150dp"
+            android:text="Saldo"
+            android:textColor="#FFFFFF"
+            android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/txt_num_saldo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="HelveticaNeue"
+                android:paddingTop="180dp"
+                android:text="R$ 1.000,00"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp" />
+
+
+        </FrameLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RelativeLayoutApp</string>
+    <string name="login">Login</string>
+    <string name="username">UserName</string>
+    <string name="password">PassWord</string>
+    <string name="enviar">Enviar</string>
+    <string name="comentarios">Comentários</string>
+    <string name="deletar">Deletar</string>
+    <string name="salvar">Salvar</string>
+    <string name="logar">Logar</string>
+</resources>

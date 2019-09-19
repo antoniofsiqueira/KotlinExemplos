@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_21_GPS</string>
+    <string name="telainicial_titulo">GPS</string>
+    <string name="telainicial_rotulo_btn_gps">GPS</string>
+    <string name="telainicial_rotulo_btn_rede">Rede</string>
+    <string name="telainicial_rotulo_btn_parar">Parar</string>
+    <string name="telainicial_rotulo_latitude">Latitude</string>
+    <string name="telainicial_rotulo_longitude">Longitude</string>
+</resources>

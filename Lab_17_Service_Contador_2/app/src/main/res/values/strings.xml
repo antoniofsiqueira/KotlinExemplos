@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab_17_Service_Contador_2</string>
+    <string name="telainicial_servico_contador">Serviço Contador</string>
+    <string name="telainicial_rotulo_btn_play">Iniciar</string>
+    <string name="telainicial_rotulo_btn_stop">Parar</string>
+</resources>

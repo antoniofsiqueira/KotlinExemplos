@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab_11_Telas</string>
+    <string name="tv_titulo">Dados Cadastrais</string>
+    <string name="tv_telefone">Telefone</string>
+    <string name="tv_numero_casa">(0xx11) 9 9888-1111</string>
+    <string name="tv_casa">Casa</string>
+    <string name="tv_numero_trabalho">(0xx11) 9 9888-2222</string>
+    <string name="tv_trabalho">Trabalho</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_email_pessoal">android@impacta.com.br</string>
+    <string name="tv_pessoal">Pessoal</string>
+    <string name="tv_email_trabalho">instrutor@impacta.com.br</string>
+</resources>
